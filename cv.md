@@ -22,7 +22,7 @@ Technical Experience
 Technical Experience
 --------------------
      Developed telegram bots on python
-     Developed an Android app with 1000+ downloads and 4,5 stars.
+     Developed an Android app with 1000+ downloads and 4,5 stars on PlayMarket.
 
 Courses
 ---------------
