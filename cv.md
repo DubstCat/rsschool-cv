@@ -35,7 +35,7 @@ Programming Languages
 
 :   **Python**
 
-:   Basic knowledge of **C**, **C++**, **python**
+:   Basic knowledge of **C**, **C++**, **Python**
 
 [ref]: https://github.com/DubstCat
 
